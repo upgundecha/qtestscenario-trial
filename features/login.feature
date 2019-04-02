@@ -1,7 +1,5 @@
 Feature: Login
 
-
-
   Scenario: Login with valid credentials
     Given user is on Home page
     When he logins with his credentials
